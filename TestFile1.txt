@@ -32,3 +32,6 @@ deleted a line 24 in br2
 8:25 AM 10/1/2018 -- Change at br1 - /code
 8:31 AM 10/1/2018 -- Change at br1 - 2 - /code 
 >>>>>>> a19ffd8985baa110657d9c1375bf0f2794882fa7
+
+9:58 AM 10/1/2018 - src/br2 - 1
+
